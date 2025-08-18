@@ -1,4 +1,4 @@
-# Tetris AI (pygame)
+# Tetris AI
 このプロジェクトは Gemini CLI を使った生成AIコード生成のテストと、Git/GitHub 学習を兼ねて作成しました。  
 ほとんどのコードは生成AIが書いたものであり、自分はそれを動かしながら理解・修正し、公開用に整えています。  
 
@@ -13,10 +13,9 @@
 ## 技術スタック
 - 言語: Python 3.12.2
 - ライブラリ: pygame
-- 開発環境: Gemini CLI（生成AI補助） + Git/GitHub
+- 開発環境: Gemini CLI + Git/GitHub
 
 ## 実行方法
-
 1. リポジトリをクローン
    ```bash
    git clone https://github.com/koki01150124/tetris-ai.git
