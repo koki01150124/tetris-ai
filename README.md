@@ -12,7 +12,7 @@
 
 ## 技術関係
 - 言語: Python 3.12.2
-- ライブラリ: pygame
+- ライブラリ: Pygame 2.6.1
 - 開発環境: Gemini CLI + Git/GitHub
 
 ## 実行方法
