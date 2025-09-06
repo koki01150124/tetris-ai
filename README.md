@@ -1,6 +1,6 @@
 # Tetris AI
 ## 概要
-この Tetris AI は Gemini CLI のコード生成テストと、Git/GitHub学習を兼ねて作成しました。  
+このTetris AIはGemini CLIのコード生成テストと、Git/GitHub学習を兼ねて作成しました。  
 ほとんどのコードは生成AIが書いたものであり、自分はそれを動かしながら理解・修正し、公開用に整えています。  
 
 ## 対戦モード
